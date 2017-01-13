@@ -17,7 +17,6 @@ import static org.junit.Assert.assertNull;
 /**
  * Created by ani on 2017.01.05..
  */
-@RunWith(MockitoJUnitRunner.class)
 public class AtmTest {
     public Atm atm;
     public Bank bank;
